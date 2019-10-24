@@ -1,0 +1,19 @@
+{
+  "name": "szmigiel-meanmenu",
+  "version": "1.0.0",
+  "description": "MeanMenu for dachyostroleka.pl website.",
+  "main": "jquery.meanmenu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qrzysio/meanMenu.git"
+  },
+  "author": "https://github.com/meanthemes/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qrzysio/meanMenu/issues"
+  },
+  "homepage": "https://github.com/Qrzysio/meanMenu#readme"
+}
