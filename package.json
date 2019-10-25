@@ -1,6 +1,6 @@
 {
   "name": "szmigiel-meanmenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MeanMenu for dachyostroleka.pl website.",
   "main": "jquery.meanmenu.js",
   "scripts": {
